@@ -26,8 +26,8 @@ outputFormats:
     notAlternative: true
 
 outputs:
-  home: ["HTML","RSS", "JSON", "SearchIndex"]
-  section: ["HTML","RSS", "JSON"]
+  home: ["HTML",  "JSON", "SearchIndex"]
+  section: ["HTML",  "JSON"]
 
 params:
   contact: "frjo@xdeb.org"
@@ -52,8 +52,4 @@ languages:
     languageName: "English"
     languageCode: "en-GB"
     contentDir: content/en
-  sv:
-    weight: 2
-    languageName: "Svenska"
-    languageCode: "sv-SE"
-    contentDir: content/sv
+ 
