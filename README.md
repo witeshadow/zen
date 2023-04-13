@@ -15,3 +15,4 @@ Feel free to use this repo as a template if you want it as a quickstart for your
 * Multilingual
 * Search
 * Podcast
+* Other
