@@ -1,5 +1,7 @@
 # Zen demo site
 
+Current site: <https://witeshadow.github.io/zen/>
+
 The zen theme for Hugo demo site.
 
 * View the demo site: <http://zen-demo.xdeb.org>
