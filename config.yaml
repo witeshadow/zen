@@ -1,6 +1,6 @@
 ---
 title: "Zen demo site"
-baseURL: "https://zen-demo.xdeb.org/"
+baseURL: "/"
 theme: "github.com/frjo/hugo-theme-zen/v3"
 languageCode: "en-GB"
 defaultContentLanguage: "en"
