@@ -26,7 +26,7 @@ outputFormats:
     notAlternative: true
 
 outputs:
-  home: ["HTML",  "JSON", "SearchIndex"]
+  home: ["HTML", "RSS", "JSON", "SearchIndex"]
   section: ["HTML",  "JSON"]
 
 params:
